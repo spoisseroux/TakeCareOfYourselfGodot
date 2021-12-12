@@ -42,6 +42,10 @@
 			"text": "But, it's not like there's any other way to get anywhere. And I can't really afford to fix it."
 		},
 		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 1
+		},
+		{
 			"change_timeline": "timeline-1639275086.json",
 			"event_id": "dialogic_020"
 		}

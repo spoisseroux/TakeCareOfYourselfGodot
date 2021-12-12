@@ -6,6 +6,15 @@
 			"fade_duration": 0
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://assets/idleMusic3.mp3",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -85,6 +94,10 @@
 			"text": "Maybe they felt what I feel so strongly they convinced themself otherwise."
 		},
 		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 1
+		},
+		{
 			"background": "res://assets/scenes/scene_roadStretch.png",
 			"event_id": "dialogic_021",
 			"fade_duration": 0
@@ -99,7 +112,11 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The road seems wider, and the small torches beaming from my car are the one of the only things I have to show me how to keep myself alive."
+			"text": "The road seems wider, and my headlights only add to the light pollution that is hard to see through."
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 1
 		},
 		{
 			"background": "res://assets/scenes/scene_lights1.png",
@@ -402,6 +419,15 @@
 			"wait_seconds": 2
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://assets/winMusic.mp3",
+			"volume": 0
+		},
+		{
 			"background": "res://assets/scenes/death.png",
 			"event_id": "dialogic_021",
 			"fade_duration": 0
@@ -427,6 +453,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "\"Good job, and thank you.\""
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 3
+		},
+		{
+			"change_scene": "res://Control.tscn",
+			"event_id": "dialogic_041"
 		}
 	],
 	"metadata": {

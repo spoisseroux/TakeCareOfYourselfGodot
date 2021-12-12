@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://assets/death_musicLoop.mp3",
+			"volume": 0
+		},
+		{
 			"background": "res://assets/scenes/death.png",
 			"event_id": "dialogic_021"
 		},
@@ -27,6 +36,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "\"Sorry\""
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 3
+		},
+		{
+			"change_scene": "res://Control.tscn",
+			"event_id": "dialogic_041"
 		}
 	],
 	"metadata": {

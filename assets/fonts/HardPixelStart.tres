@@ -1,0 +1,10 @@
+[gd_resource type="DynamicFont" load_steps=2 format=2]
+
+[ext_resource path="res://assets/fonts/Hardpixel.ttf" type="DynamicFontData" id=1]
+
+[resource]
+resource_local_to_scene = true
+size = 44
+outline_color = Color( 0.407843, 0, 0, 1 )
+extra_spacing_char = 6
+font_data = ExtResource( 1 )

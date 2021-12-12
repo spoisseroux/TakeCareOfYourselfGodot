@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/death_musicLoop.wav-f29322ccc6d783ba2b8abf6efab2130e.sample"
+
+[deps]
+
+source_file="res://assets/death_musicLoop.wav"
+dest_files=[ "res://.import/death_musicLoop.wav-f29322ccc6d783ba2b8abf6efab2130e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
