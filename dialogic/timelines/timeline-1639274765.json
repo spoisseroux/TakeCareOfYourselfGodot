@@ -1,0 +1,54 @@
+{
+	"events": [
+		{
+			"background": "res://assets/scenes/scene_car.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's always something wrong with this car."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Always some new thumping."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An organic thumping that reminds me of my own irregular heartbeat."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe this car is like me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If that were the case I probably shouldn't be driving it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But, it's not like there's any other way to get anywhere. And I can't really afford to fix it."
+		},
+		{
+			"change_timeline": "timeline-1639275086.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1639274765.json",
+		"name": "car"
+	}
+}

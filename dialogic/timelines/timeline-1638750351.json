@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://assets/scenes/scene_1_2.png",
+			"background": "res://assets/scenes/scene_phone.png",
 			"event_id": "dialogic_021",
 			"fade_duration": 0
 		},
@@ -9,19 +9,83 @@
 			"character": "character-1638750360.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "This is preview text. You can use  [color=#A5EFAC]BBCode[/color] to style it.\n[wave amp=50 freq=2]You can even use effects![/wave]"
-		},
-		{
-			"character": "character-1638750371.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "This is preview text. You can use  [color=#A5EFAC]BBCode[/color] to style it.\n[wave amp=50 freq=2]You can even use effects![/wave] !"
+			"text": "...."
 		},
 		{
 			"character": "character-1638750360.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "This is preview text. You can use  [color=#A5EFAC]BBCode[/color] to style it.\n[wave amp=50 freq=2]You can even use effects![/wave] !!"
+			"text": "... I guess I should go."
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After all, I haven't been doing much anyways. "
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe this will help."
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Go?"
+		},
+		{
+			"choice": "Go.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ok, let's do this."
+		},
+		{
+			"choice": "I don't feel right...",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But, I always feel this way. I can't live like this forever. "
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have to do something. Maybe it'll help me get used to feeling this way."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1638750360.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess I'm going... I hope driving isn't too bad this time."
+		},
+		{
+			"change_timeline": "timeline-1639274765.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

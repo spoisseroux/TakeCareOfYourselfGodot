@@ -1,0 +1,32 @@
+{
+	"events": [
+		{
+			"background": "res://assets/scenes/death.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Unable to convince yourself you were real, you soon passed out from increased heart rate\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"You crashed your car into the median going 75mph, and died\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Sorry\""
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1639278182.json",
+		"name": "realDeath"
+	}
+}

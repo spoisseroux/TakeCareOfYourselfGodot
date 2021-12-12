@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/scene_car.png-6dddef6d0a2f51b7f2db0857bedf046a.stex"
+path="res://.import/causes-of-sidewalk-cracks.jpg-0aa75ab2a87db8ca9732632a05b86ee5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scene_car.png"
-dest_files=[ "res://.import/scene_car.png-6dddef6d0a2f51b7f2db0857bedf046a.stex" ]
+source_file="res://assets/photos/causes-of-sidewalk-cracks.jpg"
+dest_files=[ "res://.import/causes-of-sidewalk-cracks.jpg-0aa75ab2a87db8ca9732632a05b86ee5.stex" ]
 
 [params]
 

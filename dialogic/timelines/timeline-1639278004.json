@@ -1,0 +1,32 @@
+{
+	"events": [
+		{
+			"background": "res://assets/scenes/death.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"The repetitive nature of windshield wiper movement put you in a trance and you soon passed out\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"You crashed you car into a guard rail, and the guard rail failed\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Sorry\""
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1639278004.json",
+		"name": "wiperDeath"
+	}
+}
